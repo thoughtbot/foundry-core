@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-  width="160px" height="160px" viewBox="-219 321 160 160" enable-background="new -219 321 160 160" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="160px" height="160px" viewBox="-219 321 160 160">
   <path fill="#E0E0E0" d="M-123,398.1l28.6,50.9H-123V398.1 M-139,337v128h72L-139,337L-139,337z"/>
   <path fill="#E0E0E0" d="M-211,337v19h1v44c0.6,0,1,0.4,1,1s-0.4,1-1,1v44h-1v19c35.3,0,64-28.7,64-64S-175.7,337-211,337z M-195,446
     v-90c18.6,6.6,32,24.1,32,45S-176.4,439.4-195,446z"/>
